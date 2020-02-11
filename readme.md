@@ -5,4 +5,6 @@ test formation
 Edition sur github
 nouvelle edition sur github
 
-update 
+update
+
+update2 sur featureA 
