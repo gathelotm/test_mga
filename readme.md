@@ -11,6 +11,4 @@ update2 sur featureA
 
 update 3 sur feature A
 
-conflit 1
-
-conflit 3
+Conflit 4
